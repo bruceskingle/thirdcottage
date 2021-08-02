@@ -1,6 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: nil
-url: "https://www.thirdcotage.com/"
+url: "http://www.thirdcotage.com"
+logo: "/assets/images/logo.png"
 
 # Aux links for the upper right navigation
 #aux_links:
