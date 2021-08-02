@@ -1,0 +1,12 @@
+remote_theme: pmarsceill/just-the-docs
+color_scheme: nil
+url: "https://thirdcottage.com"
+
+# Aux links for the upper right navigation
+#aux_links:
+# "Example Programs":
+#  - "//examples.thirdcottage.com"
+# "API Source Code":
+#  - "//github.com/thirdcottage/thirdcottage"
+
+search_enabled: true
