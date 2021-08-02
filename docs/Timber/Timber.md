@@ -40,3 +40,17 @@ Zuiri, Kosi-kosi and Afau-konkonti
 
 The heartwood matures from a pink-brown when fresh cut to deep red-brown. The grain is
 interlocked to rather irregular, producing a wide irregular striped figure on quartered surfaces.
+
+
+## European Oak
+European Oak
+(Family Quercus Robur)
+is a
+Temperate Hardwood
+also known as Rovere, Quercia, Chene & Eiche.
+
+![European Oak](./European Oak.png)
+
+European Oak’s heartwood is light tan to biscuit coloured, usually straight grained, but
+irregular or cross-grained material can occur depending on growth conditions. Characteristics silver grain
+figure on quartered surfaces due to broad rays.
