@@ -17,7 +17,7 @@ The heartwood has a medium to dark reddish-brown colour, characterised by a well
 ribbon striped figure on quartered surfaces. Sometimes, when wavy grain is present,
 a mottled figure is obtained.
 
-##Iroko
+## Iroko
 Iroko (Chlorophora Excelsa)
 is a Tropical Hardwood
 also known as Odum, Mvule, Kambala, Bang,
@@ -30,7 +30,7 @@ over time. Pale yellow sapwood is clearly demarcated from the heartwood. Iroko h
 texture with open pores and an interlocked grain.
 
 
-##Utile
+## Utile
 Utile (Entandraopragma Utile)
 is a Tropical Hardwood
 also known as Tshimage Rosso, Medbrou
