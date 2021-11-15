@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg129"
+   viewBox="0 0 297 210"
+   height="210mm"
+   width="297mm"
+   version="1.1"
+   sodipodi:docname="A4_Landscape_3rd_Cottage.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace">
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs133" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:miter;stroke-miterlimit:4"
+     id="drawing-border">
+    <rect
+       id="rect2"
+       y="15"
+       x="7"
+       height="188"
+       width="283" />
+  </g>
+  <g
+     style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:miter;stroke-miterlimit:4"
+     id="titleblock-structure">
+    <rect
+       id="rect5"
+       y="169"
+       x="150"
+       height="34"
+       width="140" />
+    <path
+       id="path7"
+       d="m 150,177 h 140" />
+    <!-- upper horizontal Separator Titleblock -->
+    <path
+       id="path11"
+       d="m 150,199 h 140" />
+    <!-- lower horizontal Separator Copyright -->
+    <path
+       id="path13"
+       d="m 195,169 v 8" />
+    <!-- Separator Author / Owner -->
+    <path
+       id="path15"
+       d="m 237,169 v 30" />
+    <!-- Separator Title / Liste RH -->
+    <path
+       id="path17"
+       d="m 267,169 v 8" />
+    <!-- Separator Scale / Sheet -->
+    <path
+       id="path19"
+       d="m 237,185 h 53" />
+    <!-- Separator Part / Drawing-Nr -->
+    <path
+       id="path21"
+       d="m 237,191 h 53" />
+    <!-- Separator DRW-Info / Revision -->
+    <path
+       id="path23"
+       d="m 267,191 v 8" />
+    <!-- Separator Date / Revision -->
+  </g>
+  <g
+     style="font-size:3px;text-anchor:start;fill:#000000;font-family:tahoma"
+     id="titleblock-text-non-editable">
+    <text
+       id="text26"
+       y="172"
+       x="151">Product:</text>
+    <text
+       id="text28"
+       y="176"
+       x="151">View:</text>
+    <text
+       id="text30"
+       y="172"
+       x="196">Customer / Project:</text>
+    <text
+       id="text32"
+       y="181"
+       x="151">Notes:</text>
+    <text
+       id="text36"
+       y="172"
+       x="268">Size:</text>
+    <text
+       id="text38"
+       y="176"
+       x="268" />
+    <text
+       id="text40"
+       y="172"
+       x="238">Scale:</text>
+    <text
+       id="text42"
+       y="176"
+       x="238">Toler.:</text>
+    <text
+       id="text44"
+       y="180"
+       x="238">Part material:</text>
+    <text
+       id="text46"
+       y="184"
+       x="238">Part number:</text>
+    <text
+       id="text48"
+       y="189"
+       x="238">Drawing no.:</text>
+    <text
+       id="text50"
+       y="194"
+       x="238">Date:</text>
+    <text
+       id="text52"
+       y="194"
+       x="268">Revision:</text>
+  </g>
+  <g
+     style="font-size:3px;text-anchor:start;fill:#000000;font-family:tahoma"
+     id="titleblock-text-editable">
+    <text
+       id="text57"
+       y="172"
+       x="162.52916"
+       freecad:editable="PRODUCT"><tspan
+         id="tspan55">PRODUCT</tspan></text>
+    <text
+       id="text61"
+       y="176"
+       x="162.52916"
+       freecad:editable="VIEW"><tspan
+         id="tspan59">Part</tspan></text>
+    <text
+       id="text65"
+       y="176"
+       x="197"
+       freecad:editable="CUSTOMER_NAME"><tspan
+         id="tspan63">Stock</tspan></text>
+    <text
+       id="text69"
+       y="181"
+       x="160"
+       freecad:editable="NOTESLINE-1"><tspan
+         id="tspan67">Thickness 40mm unless noted otherwise.</tspan></text>
+    <text
+       id="text73"
+       y="185"
+       x="160"
+       freecad:editable="NOTESLINE-2"><tspan
+         id="tspan71">Fillets 5mm unless noted otherwise.</tspan></text>
+    <text
+       id="text77"
+       y="189"
+       x="160"
+       freecad:editable="NOTESLINE-3"><tspan
+         id="tspan75">Slot holes 15mm centre spacing, 10mm radius, 25mm</tspan></text>
+    <text
+       id="text78"
+       y="193"
+       x="160"
+       freecad:editable="NOTESLINE-4"><tspan
+         id="tspan75">depth unless noted otherwise.</tspan></text>
+    <text
+       id="text81"
+       y="197"
+       x="160"
+       freecad:editable="NOTESLINE-5"><tspan
+         id="tspan79"></tspan></text>
+    <text
+       id="text89"
+       y="172"
+       x="247"
+       freecad:editable="SCALE"><tspan
+         id="tspan87">1:10</tspan></text>
+    <text
+       id="text93"
+       y="176"
+       x="247"
+       freecad:editable="TOLERANCE"><tspan
+         id="tspan91">+/- 0.5mm</tspan></text>
+    <text
+       id="text97"
+       y="180"
+       x="257"
+       freecad:editable="PM"><tspan
+         id="tspan95">Wood</tspan></text>
+    <text
+       id="text101"
+       y="184"
+       x="257"
+       freecad:editable="PN"><tspan
+         id="tspan99">PN</tspan></text>
+    <text
+       id="text105"
+       y="189"
+       x="257"
+       freecad:editable="DN"><tspan
+         id="tspan103">DN</tspan></text>
+    <text
+       id="text109"
+       y="198"
+       x="239"
+       freecad:editable="DATE"><tspan
+         id="tspan107">YYYY-MM-DD</tspan></text>
+    <text
+       id="text113"
+       y="198"
+       x="269"
+       freecad:editable="REVISION"><tspan
+         id="tspan111">REV A</tspan></text>
+    <text
+       id="text117"
+       y="175.21579"
+       x="268.15582"
+       freecad:editable="SIZE"><tspan
+         id="tspan115">A4</tspan></text>
+    <text
+       id="text121"
+       y="202"
+       x="151"
+       freecad:editable="RIGHTS"><tspan
+         id="tspan119">(C) Copyright 2021 thirdcottage.com - All Rights Reserved</tspan></text>
+  </g>
+  <rect
+     x="275.46857"
+     y="169.52916"
+     width="14.002234"
+     height="7.0011172"
+     fill="#ffffff"
+     stroke="none"
+     id="rect367"
+     style="stroke-width:0.0700111" />
+  <g
+     stroke="#404040"
+     stroke-width="1"
+     stroke-dasharray="35, 5, 5, 5"
+     stroke-dashoffset="17.5"
+     id="g373"
+     transform="matrix(0.07001117,0,0,0.07001117,275.46861,169.52917)">
+    <line
+       x1="0"
+       y1="50"
+       x2="200"
+       y2="50"
+       id="line369" />
+    <line
+       x1="150"
+       y1="0"
+       x2="150"
+       y2="100"
+       id="line371" />
+  </g>
+  <g
+     stroke="#000000"
+     stroke-width="2"
+     fill="none"
+     id="g381"
+     transform="matrix(0.07001117,0,0,0.07001117,275.46861,169.52917)">
+    <polygon
+       points="90,30 90,70 10,90 10,10 "
+       id="polygon375" />
+    <circle
+       cx="150"
+       cy="50"
+       r="20"
+       id="circle377" />
+    <circle
+       cx="150"
+       cy="50"
+       r="40"
+       id="circle379" />
+  </g>
+</svg>
