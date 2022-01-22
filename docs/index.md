@@ -43,10 +43,13 @@ When choosing workspace furniture for your home, Third Cottage funiture can prov
 for you, and your space.
 
 ## Our Process
-To place an order, or discuss your specific requirements, send an email to sales@firstcottage.com
+To place an order, or discuss your specific requirements, send an email to 
+[sales@firstcottage.com](mailto:lsales@firstcottage.com)
 and we will give you a quote and delivery timeline. When your furniture is ready it will be
 shipped to you in a custom made wooden crate to ensure that it reaches you in perfect condition
 (you will need a screwdriver to open the crate).
 
 Small pieces are shipped by UPS overnight, larger pieces may take slightly longer to deliver,
-but UK Mainland shipping is included in all our prices.
+but UK Mainland delivery is included in all our prices.
+
+!(/assets/images/Ash/VO9O0323.jpg "Ash Circular Table Detail")
