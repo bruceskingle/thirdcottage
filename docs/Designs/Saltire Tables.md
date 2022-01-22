@@ -20,8 +20,8 @@ adjusted to your requirements.
 
 <table border=0 align=center>
 <tr>
-	<td><img src="/assets/images/SaltireAsh/VO9O0358.jpeg" width=200 height=150></td>
-	<td><img src="/assets/images/SaltireIroko/VO9O0356.jpeg" width=200 height=150></td>
+	<td align=center><img src="/assets/images/SaltireAsh/VO9O0358.jpeg" width=200 height=150></td>
+	<td align=center><img src="/assets/images/SaltireIroko/VO9O0356.jpeg" width=200 height=150></td>
 </tr><tr>
 	<th>American Ash</th>
 	<th>Iroko</th>

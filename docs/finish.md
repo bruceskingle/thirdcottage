@@ -4,7 +4,7 @@ title: Finish and Care
 ---
 # Finish
 Third Cottage furniture is made from solid hard wood and finished with 
-Osmo Polyx Oil which protects the wood without creating a seal, which means the wood can still breath.
+Osmo Polyx Oil which protects the wood without creating a seal, which means the wood can still breathe.
 
 
 ## Cleaning up Spills
