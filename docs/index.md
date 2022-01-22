@@ -52,4 +52,4 @@ shipped to you in a custom made wooden crate to ensure that it reaches you in pe
 Small pieces are shipped by UPS overnight, larger pieces may take slightly longer to deliver,
 but UK Mainland delivery is included in all our prices.
 
-!(/assets/images/Ash/VO9O0323.jpg "Ash Circular Table Detail")
+![Ash Circular Table Detail](/assets/images/Ash/VO9O0323.jpg "Ash Circular Table Detail")
