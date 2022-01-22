@@ -9,7 +9,8 @@ and our production methods are structured so that as much of the work as possibl
 performed by artisans working from a home workshop.
 While machine tools are used in our production processes where they make sense, 
 and our designs are supported by Computer Aided Design (CAD),
-our products are made largely by hand and customised so that every piece is unique.
+our products are made largely by hand in workshops in the UK 
+and customised so that every piece is unique.
 
 ## Hand Made to Measure Solid Wood Furniture
 All of our furniture is made from solid wood, no metal fixings (screws nails etc.) are used
@@ -31,8 +32,7 @@ dimensions can be adjusted to fit your space, your life style and your body, per
 When fitting out an office, space planners must consider everyone, in some cases designing
 around atypical users. For example, the UK government's Health and Safety Executive says
 (in
-[Reducing Awkward Postures]
-(https://www.hse.gov.uk/msd/uld/art/posture.htm)
+[Reducing Awkward Postures](https://www.hse.gov.uk/msd/uld/art/posture.htm)
 )
 
 _Tables should accommodate the largest users.
