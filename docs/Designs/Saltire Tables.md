@@ -18,10 +18,10 @@ The circular Saltire lamp table is constructed form 20mm thick solid wood,
 has a nominal height of 520mm and a top with a diameter of 480mm although these sizes can be 
 adjusted to your requirements.
 
-<table border=0>
+<table border=0 align=center>
 <tr>
-	<td><img src="/assets/images/SaltireAsh/VO900358.jpeg" width=200 height=150></td>
-	<td><img src="/assets/images/SaltireIroko/VO900356.jpeg" width=200 height=150></td>
+	<td><img src="/assets/images/SaltireAsh/VO9O0358.jpeg" width=200 height=150></td>
+	<td><img src="/assets/images/SaltireIroko/VO9O0356.jpeg" width=200 height=150></td>
 </tr><tr>
 	<th>American Ash</th>
 	<th>Iroko</th>
